@@ -23,7 +23,8 @@ Ini setelah di run
 ![Screenshot (386)](https://github.com/NFajri11/UAS_Pengolahan_Citra/assets/92937310/03a99f77-8c59-45b1-b39a-7f42398462ba)
 Pilih gambar yang akan di proses
 ![Screenshot (384)](https://github.com/NFajri11/UAS_Pengolahan_Citra/assets/92937310/115df9fc-6220-46b5-903b-a8513742a9c0)
-Hasil nya
+Hasil nya 
+Pada pojok kiri bawah ada fitur untuk mendownload gambar yang sudah di proses
 ![Screenshot (385)](https://github.com/NFajri11/UAS_Pengolahan_Citra/assets/92937310/115a4b29-a9a1-4a7b-804e-0bd3f8590b0b)
 
 
