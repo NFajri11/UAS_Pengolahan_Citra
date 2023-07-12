@@ -1,10 +1,10 @@
 # UAS_Pengolahan_Citra
 
-Dosen Pengampu   : Muhammad Najamuddin Dwi Miharja, S.Kom, M.Kom
-Mata Kuliah      : Pengolahan Citra
-Nama             : Nurul Fajri
-Nim              : 312110506
-Kelas            : TI.21.C.1
+Dosen Pengampu   : Muhammad Najamuddin Dwi Miharja, S.Kom, M.Kom<br>
+Mata Kuliah      : Pengolahan Citra<br>
+Nama             : Nurul Fajri<br>
+Nim              : 312110506<br>
+Kelas            : TI.21.C.1<br>
 
 ## Berikut adalah penjelasan langkah langkah mengenai komponen utama dalam program
 - Pertama, kita mengimpor beberapa library yang akan digunakan dalam program ini, yaitu cv2 (OpenCV) untuk operasi pemrosesan gambar, numpy untuk manipulasi array, math untuk perhitungan matematis, dan matplotlib.pyplot untuk menampilkan gambar. <br>
